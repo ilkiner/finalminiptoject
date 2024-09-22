@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+.porto_news {
+background-color: #E1E2E5;
+
+.container {
+   
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+   
+
+.porto_news_header,  {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    margin-left: -75px;
+    
+    h3 {
+    color: $h1_color;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    }
+}
+.col-4 {
+   display: flex;
+   flex-wrap: wrap;
+.card {
+    
+    display: flex;
+    flex-wrap: wrap;
+gap: 20px;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin-bottom: 90px;
+a {
+   padding: 0;
+    margin-top: 20px;
+    border: none;
+    background-color: transparent;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+h5 {
+    
+    color: $h1_color;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+}
+
+}
+
+}
+
+}
+
+}
